@@ -11,7 +11,6 @@
   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fsportflaechenreinigung.de&up_message=online&down_message=offline">
   <img alt="Uptime Robot ratio (7 days)" src="https://img.shields.io/uptimerobot/ratio/7/m796332756-050a7f961816818b378ebb93?style=flat&label=Website%20-%20Uptime%3A&link=https%3A%2F%2Fstats.uptimerobot.com%2FEMz4As1oPR">
 </a>
-<a href="https://twitter.com/PietSmietde"><img src="https://img.shields.io/twitter/follow/PietSmietde.svg?label=PietSmietde&style=social" alt="Twitter"></a>
 </p>
 
 ---
