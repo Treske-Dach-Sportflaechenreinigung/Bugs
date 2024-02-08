@@ -34,7 +34,7 @@ Mehr Informationen zu aktuellen Ereignissen sind auf unserer **Statusseite [stat
 
 ## ⚠️ Probleme mit Abonnement, Login etc. ⚠️
 
-Bitte sende bei Fragen & Problemen zum Abonnement, Login, 2-Faktor und allen weiteren Accountspezifischen Themen eine E-Mail an [support@pietsmiet.de](mailto:support@pietsmiet.de). **Dafür nicht den Bugtracker verwenden**!
+Bitte sende bei Fragen & Problemen zum Abonnement, Login, 2-Faktor und allen weiteren Accountspezifischen Themen eine E-Mail an [josua.hess@sportflaechenreinigung.de](mailto:josua.hess@sportflaechenreinigung.de). **Dafür nicht den Bugtracker verwenden**!
 
 ## Sicherheit
 
