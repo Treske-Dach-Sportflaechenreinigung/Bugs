@@ -17,16 +17,16 @@
 
 # Sportflaechenreinigung.de Tracker
 
-Hier können **Fehlermeldungen** und **Featurevorschläge** zur [Sportflaechenreinigung.de](https://www.sportflaechenreinigung.de) Website eingesendet werden.
+Hier können **Fehlermeldungen** und **Featurevorschläge** zur [Sportflächenreinigung.de](https://www.sportflaechenreinigung.de) Website eingesendet werden.
 
 ### Status Page
 
-Mehr Informationen zu aktuellen Ereignissen sind auf unserer **Statusseite [status.pietsmiet.de](https://status.pietsmiet.de)** verfügbar.
+Mehr Informationen zu aktuellen Ereignissen sind auf unserer **Statusseite [status.baum-treske.de](https://treske.josuadev.de)** verfügbar.
 
 ##  Meldung einsenden
 
-1. Erstelle einen [neuen GitHub Account](https://github.com/join) oder [logge dich ein](https://github.com/login?return_to=%2Fpietsmietde%2FBugs).
-2. Eröffne einen [neuen Issue](https://github.com/pietsmietde/Bugs/issues/new/choose) über den "Issues" Tab. ("Issue" = Meldung)
+1. Erstelle einen [neuen GitHub Account](https://github.com/join) oder [logge dich ein](https://github.com/login?return_to=%2FTreske-Dach-Sportflaechenreinigung%2FBugs).
+2. Eröffne einen [neuen Issue](https://github.com/Treske-Dach-Sportflaechenreinigung/Bugs/issues/new/choose) über den "Issues" Tab. ("Issue" = Meldung)
 3. Wähle dort zwischen den verfügbaren Vorlagen
 4. Lege einen passenden Titel fest
 5. Fülle alle Felder aus
@@ -38,9 +38,8 @@ Bitte sende bei Fragen & Problemen zum Abonnement, Login, 2-Faktor und allen wei
 
 ## Sicherheit
 
-Solltest du sicherheitsrelevante Meldungen haben, sende eine E-Mail an [support@pietsmiet.de](mailto:support@pietsmiet.de) anstatt den Issue Tracker zu nutzen.
+Solltest du sicherheitsrelevante Meldungen haben, sende eine E-Mail an [josua.hess@sportflaechenreinigung.de](mailto:josua.hess@sportflaechenreinigung.de) anstatt den Issue Tracker zu nutzen.
 
 ----
 
-🌐 [PietSmiet.de](https://pietsmiet.de)    
-🐦 [@PietSmietDE auf Twitter](https://twitter.com/pietsmietde)
+🌐 [Sportflächenreinigung.de](https://www.sportflaechenreinigung.de)    
