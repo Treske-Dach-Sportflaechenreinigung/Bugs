@@ -32,10 +32,6 @@ Mehr Informationen zu aktuellen Ereignissen sind auf unserer **Statusseite [stat
 5. Fülle alle Felder aus
 6. Prüfe über den "Preview"-Tab oberhalb des Eingabefensters, ob die Meldung korrekt formatiert ist
 
-## ⚠️ Probleme mit Abonnement, Login etc. ⚠️
-
-Bitte sende bei Fragen & Problemen zum Abonnement, Login, 2-Faktor und allen weiteren Accountspezifischen Themen eine E-Mail an [josua.hess@sportflaechenreinigung.de](mailto:josua.hess@sportflaechenreinigung.de). **Dafür nicht den Bugtracker verwenden**!
-
 ## Sicherheit
 
 Solltest du sicherheitsrelevante Meldungen haben, sende eine E-Mail an [josua.hess@sportflaechenreinigung.de](mailto:josua.hess@sportflaechenreinigung.de) anstatt den Issue Tracker zu nutzen.
