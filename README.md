@@ -5,7 +5,7 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/Treske-Dach-Sportflaechenreinigung/Bugs?label=Offen">
 </a>
 <a href="https://github.com/Treske-Dach-Sportflaechenreinigung/Bugs/issues?q=is%3Aissue+is%3Aclosed">
-  <img src="https://img.shields.io/github/issues-closed-raw/Treske-Dach-Sportflaechenreinigung/Bugs.svg?label=Geschlossen&color=dark-green" alt="Geschlossene Issues">
+  <img src="https://img.shields.io/github/issues-closed-raw/Treske-Dach-Sportflaechenreinigung/Bugs.svg?label=Geschlossen" alt="Geschlossene Issues">
 </a>
 <a href="https://www.sportflaechenreinigung.de">
   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fsportflaechenreinigung.de&up_message=online&down_message=offline">
